@@ -1,6 +1,6 @@
 # handle-translations
 
-A scheme for handling translating hard-coded elements.
+A scheme for handling translation of hard-coded elements.
 
 ## Usage
 
@@ -24,4 +24,4 @@ In use
 
 ## Best practices
 
-Keep translation object sorted alphabetically.
+Keep translation objects sorted alphabetically.
